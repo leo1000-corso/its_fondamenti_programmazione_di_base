@@ -9,10 +9,10 @@ int main()
     printf("Enter your surname:\n");
     scanf("%s", surname);
 
-    printf("\nHello%s", name);
+    printf("\nBenvenuto %s", name);
     printf(" %s", surname);
-    printf(" have a good day");
-    printf("\nBUT REMEMBER GOOD CHRISTMAS\n\n\n");
+    printf("\nGrazie per aver usato il nostro programma!");
+    printf("\nMa sopratutto buone feste!!\n\n\n");
     
     return 0;
 }
